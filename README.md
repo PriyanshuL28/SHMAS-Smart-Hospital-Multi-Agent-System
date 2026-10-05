@@ -1,5 +1,9 @@
 # SHMAS: Smart Hospital Multi-Agent System
 
+## Link to Streamlit Dashboard
+
+https://shmas-smart-hospital-multi-agent-system-sqvzzjaoc86wwlrzepzmbr.streamlit.app/
+
 ## Inspiration
 
 In the fast-paced world of healthcare, even the smallest delays in hospital operations can have life-or-death consequences. With multiple processes happening simultaneously—patient triage, resource allocation, and doctor scheduling—hospital workflows can quickly become overwhelmed. Our solution to this complex problem? SHMAS (Smart Hospital Multi-Agent System). This innovative system leverages the power of AI and multi-agent coordination to streamline hospital operations, reduce wait times, and ultimately enhance patient care. By automating and optimizing key tasks, SHMAS ensures that hospital staff can focus on providing care, rather than managing logistics. When tasked with building a multi-agent system, we saw an opportunity to not only improve operational efficiency but also save lives by making critical decisions faster and with greater accuracy.
